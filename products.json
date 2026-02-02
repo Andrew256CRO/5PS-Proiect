@@ -1,0 +1,20 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"products_management"},
+{"type":"table","name":"products","database":"products_management","data":
+[
+{"Id":"1","Name":"Laptop Gaming ASUS ROG Strix G15","Description":"Laptop performant cu procesor AMD Ryzen 7, 16GB RAM, RTX 3060, perfect pentru gaming și multitasking.","Price":"4999.00","Image":"https:\/\/images.unsplash.com\/photo-1603302576837-37561b2e2302?w=500","Availability_date":"2026-02-15","In_stock":"1"},
+{"Id":"2","Name":" Samsung Galaxy S24 Ultra 256GB","Description":"Smartphone flagship cu cameră de 200MP, ecran Dynamic AMOLED 2X, procesor Snapdragon 8 Gen 3.","Price":"5499.00","Image":"https:\/\/images.unsplash.com\/photo-1610945415295-d9bbf067e59c?w=500","Availability_date":"2026-02-01","In_stock":"1"},
+{"Id":"3","Name":"Sony WH-1000XM5 Wireless Headphones","Description":"Căști premium cu noise cancelling de top, autonomie 30 ore, sunet Hi-Res Audio.","Price":"1499.00","Image":"https:\/\/images.unsplash.com\/photo-1546435770-a3e426bf472b?w=500","Availability_date":"2026-01-28","In_stock":"1"},
+{"Id":"4","Name":"Apple Watch Series 9 GPS 45mm","Description":"Smartwatch cu display Retina Always-On, senzor S9, rezistent la apă, monitorizare avansată sănătate.","Price":"2199.00","Image":"https:\/\/images.unsplash.com\/photo-1579586337278-3befd40fd17a?w=500","Availability_date":"2026-03-10","In_stock":"0"},
+{"Id":"5","Name":"Apple iPad Pro 12.9 inch M2 256GB","Description":"Tabletă profesională cu chip M2, display Liquid Retina XDR, compatibilă cu Apple Pencil.","Price":"5999.45","Image":"https:\/\/images.unsplash.com\/photo-1544244015-0df4b3ffc6b0?w=500","Availability_date":"2026-02-20","In_stock":"1"},
+{"Id":"6","Name":"LG UltraGear 27 inch 144Hz QHD","Description":"Monitor gaming cu rezoluție 2K, refresh rate 144Hz, timp răspuns 1ms, compatibil G-Sync.","Price":"1799.32","Image":"https:\/\/images.unsplash.com\/photo-1527443224154-c4a3942d3acf?w=500","Availability_date":"2026-02-05","In_stock":"1"},
+{"Id":"8","Name":"Sony PlayStation 5 Digital Edition","Description":"Consolă next-gen cu SSD ultra-rapid, suport ray tracing, controller DualSense cu feedback haptic.","Price":"2499.00","Image":"https:\/\/images.unsplash.com\/photo-1606144042614-b2417e99c4e3?w=500","Availability_date":"2026-02-12","In_stock":"1"},
+{"Id":"9","Name":"Logitech G Pro X Mechanical Gaming Keyboard","Description":"Tastatură mecanică TKL cu switch-uri hot-swappable, RGB LIGHTSYNC, construcție premium.","Price":"650.25","Image":"https:\/\/images.unsplash.com\/photo-1595225476474-87563907a212?w=500","Availability_date":"2026-01-30","In_stock":"1"},
+{"Id":"10","Name":"Razer DeathAdder V3 Pro Wireless","Description":"Mouse gaming wireless cu senzor Focus Pro 30K, 90 ore autonomie, greutate doar 63g.","Price":"549.00","Image":"https:\/\/images.unsplash.com\/photo-1527864550417-7fd91fc51a46?w=500","Availability_date":"2026-02-08","In_stock":"1"},
+{"Id":"11","Name":"JBL Charge 5 Portable Bluetooth Speaker","Description":"Boxă portabilă powerbank integrat, rezistentă la apă IP67, autonomie 20 ore, bass puternic.","Price":"783.75","Image":"https:\/\/images.unsplash.com\/photo-1608043152269-423dbba4e7e1?w=500","Availability_date":"2026-03-15","In_stock":"0"},
+{"Id":"12","Name":"Samsung T7 Portable SSD 1TB","Description":"SSD extern cu viteză citire 1050MB\/s, rezistent la șocuri, compact și ușor, USB 3.2 Gen 2.","Price":"499.00","Image":"https:\/\/images.unsplash.com\/photo-1597872200969-2b65d56bd16b?w=500","Availability_date":"2026-02-18","In_stock":"1"},
+{"Id":"13","Name":"Logitech Brio 4K Ultra HD Webcam","Description":"Webcam profesională 4K, HDR, autofocus, microfoane stereo, perfect pentru streaming și conferințe.","Price":"870.65","Image":"https:\/\/images.unsplash.com\/photo-1614624532983-4ce03382d63d?w=500","Availability_date":"2026-02-25","In_stock":"1"}
+]
+}
+]

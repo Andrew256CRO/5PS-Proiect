@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Full stack app</title>
+    <meta lang="en-US">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="5PS.jpg">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Products Management</h1>
+            <button id="addProductBtn" class="Btn-primary">Add new product</button>
+        </header>
+        <div class="searchContainer">
+            <input type="text" id="searchInput" placeholder="Search a product by name">
+        </div>
+        <div id="loadingIndicator" class="loading">Loading...</div>
+        <div id="tableContainer"></div>
+        <div id="paginationContainer"></div>
+    </div>
+
+    <div id="productModal" class="modal">
+        <div class="modalContent">
+            <span class="close">&times;</span><!--&times == x-->
+            <h2 id="modalTitle">Add a product</h2>
+            <form id="productForm"></form>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
